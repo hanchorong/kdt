@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+ul {
+  list-style: none;
+  padding-left: 10px;
+  margin-bottom: 0;
+}
+ul li {
+  padding: 0 15px;
+  /* color: #fff; */
+}
+nav {
+  padding: 20px 0 !important;
+}
+img.mapImg {
+  width: 80%;
+  height: 300px;
+  margin: 0 auto;
+}
+.carousel-item img {
+  height: 500px;
+}
+.dropdown-menu a {
+  color: #888;
+}
+.mainLi {
+  color: rgba(255, 255, 255, 0.8);
+  cursor: pointer;
+}
+.mainLi a {
+  width: 100%;
+}
+.mainLi a:hover {
+  color: rgba(255, 255, 255) !important;
+}
